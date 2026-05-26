@@ -2,7 +2,7 @@
 
 <p align="center">
   🔧 Desenvolvedor apaixonado por tecnologia<br>
-  💡 Explorando ideias com <strong>HTML, CSS, JS, PHP, MySQL, Delphi e Java</strong>
+  💡 Explorando ideias com <strong>REACT, HTML, CSS, JS, PHP, MySQL, Delphi e Java</strong>
 </p>
 
 ---
