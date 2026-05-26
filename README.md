@@ -9,8 +9,8 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🔐 [**Loja de Jogos**](https://github.com/Bielexe01/Loja-de-games)  
-  Sistema e-ccomerce feito em Html, Css e JavaScript.
+- 🔐 [**Sonora**](https://github.com/Bielexe01/SONORA.git)  
+  Plataforma social voltada para musica, descoberta de artistas e interacao entre comunidades, desenvolvida com React, Vite e Supabase.
 
 - 🛒 [**Loja Virtual Academia**](https://github.com/Bielexe01/Haze-)  
   Loja online completa com produtos, carrinho e painel admin.
